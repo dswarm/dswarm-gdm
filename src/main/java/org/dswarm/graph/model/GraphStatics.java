@@ -1,4 +1,4 @@
-package de.avgl.dmp.graph.model;
+package org.dswarm.graph.model;
 
 /**
  * @author tgaengler
