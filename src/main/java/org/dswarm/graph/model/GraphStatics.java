@@ -21,6 +21,7 @@ public final class GraphStatics {
 	public static final String	ORDER_PROPERTY				= "__ORDER__";
 	public static final String	INDEX_PROPERTY				= "__INDEX__";
 	public static final String	PROVENANCE_PROPERTY			= "__PROVENANCE__";
+	public static final String	EVIDENCE_PROPERTY			= "__EVIDENCE__";
 	public static final String	RESOURCE_PROPERTY			= "__RESOURCE__";
 	public static final String	DATATYPE_PROPERTY			= "__DATATYPE__";
 	public static final String	NODETYPE_PROPERTY			= "__NODETYPE__";
